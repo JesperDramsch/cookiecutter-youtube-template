@@ -1,6 +1,6 @@
 {
   "video_title": "Awesome Video about Awesome Stuff!",
   "video_number": "999",
-  "project_link": "notion.so"
+  "project_link": "notion.so",
   "project_slug": "{{ cookiecutter.video_number }} - {{ cookiecutter.production_name.strip() }} ({% now 'local', '%Y-%m-%d' %})"
 }
