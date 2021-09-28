@@ -16,5 +16,5 @@ pip3 install -U cookiecutter
 
 Generate new project using cli questions:
 ```bash
-cookiecutter --no-input gh:JesperDramsch/cookiecutter-youtube-template
+cookiecutter gh:JesperDramsch/cookiecutter-youtube-template
 ```
