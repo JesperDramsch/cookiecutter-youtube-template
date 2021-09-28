@@ -2,4 +2,4 @@
 Prop3=19,11
 [InternetShortcut]
 IDList=
-URL=https://{{cookiecutter.project_link}}
+URL=https://{{cookiecutter.project_link.replace("https://", "").replace("http://", "")}}
